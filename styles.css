@@ -37,3 +37,11 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+#smoking{
+    display: none;
+}
+
+#nonSmoking{
+display: none;
+}
